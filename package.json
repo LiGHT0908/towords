@@ -1,6 +1,6 @@
 {
-  "name": "towords",
-  "version": "1.0.0",
+  "name": "words-from-num",
+  "version": "1.0.1",
   "description": "converts numbers to words",
   "main": "index.js",
   "scripts": {
