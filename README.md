@@ -8,8 +8,6 @@ This package was originally developed to simplify invoice generation workflows, 
 
 * Convert numbers into words
 * Suitable for invoices, receipts, and financial documents
-* Lightweight and easy to integrate
-* Simple API with minimal configuration
 * Supports large numeric values
 
 ## Use Cases
@@ -25,3 +23,6 @@ Input:
 
 123
 
+Optput:
+
+One Twenty Three
